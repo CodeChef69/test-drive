@@ -1,0 +1,30 @@
+{
+  "projects": [
+    {
+      "projectKey": "3d-slothy",
+      "projectMetadata": {
+        "name": "3DSLOTHTY",
+        "symbol": "SLOTHY",
+        "description": "3DSLOTHTY is an 8,888 unique 3D PFP NFTs with more than 450 traits that we are developing hard on it with good design, exclusively on Cronos chain. Our Sloth will access you to Mutant Sloth. You will need to stake your Sloth to get a serum for Mutant Sloth, Sloth robot (pets) airdrops, and you will get free characters on Sloth world MMORPG TURNBASED OpenWorld, Sloth Metaverse, and our IDO in the future.",
+        "image": "https://cdn.discordapp.com/attachments/915732244663001169/925697543323660288/gummy.gif",
+        "external_link": "https://croslothty.com/",
+        "contract": "0x966B18Afe9D9062d611D0C246A1959b7a25FCdDe",
+        "links": {
+          "openSea": "https://www.crosea.io/collection/0x966B18Afe9D9062d611D0C246A1959b7a25FCdDe",
+          "twitter": "https://twitter.com/Slothtynft",
+          "discord": "https://discord.com/invite/wkq88dHDyA"
+        },
+        "theme": {
+          "isDark": true,
+          "back": "#151520",
+          "primary": "#C707FF",
+          "secondary": "#DC6BFE",
+          "highlight": "#FFFF00",
+          "borderWidth": "2px",
+          "borderRadius": "8px",
+          "boxShadowWidth": "8px"
+        }
+      }
+    }
+  ]
+}
